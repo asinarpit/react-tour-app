@@ -1,0 +1,8 @@
+.bg{
+    background-image: linear-gradient(90deg, rgba(62,108,156,1) 0%, rgba(127,129,137,1) 41%, rgba(88,151,170,1) 76%, rgba(75,159,176,1) 100%);
+}
+@media screen and (min-width: 768px) {
+    .username-text {
+        display: block;
+    }
+}
